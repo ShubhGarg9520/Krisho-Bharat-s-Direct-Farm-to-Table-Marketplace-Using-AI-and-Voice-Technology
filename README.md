@@ -7,7 +7,6 @@
 
 Check out the live deployment of the project here:  
 🔗 **[Live Demo](https://krisho.onrender.com/)**
-**[Live Demo](https://cab-booking-tcj.netlify.app/)**
 ---
 ## 🛑 The Problems We Solve
 *   **Middlemen Exploitation:** Eliminates the chain of intermediaries that drain farmer profits and inflate consumer prices.
