@@ -3,7 +3,12 @@
 **Krisho** is a revolutionary agricultural platform designed to empower Indian farmers by eliminating predatory middlemen and creating a direct bridge to consumers. By combining cutting-edge AI, real-time communication, and multilingual accessibility, Krisho ensures that every farmer—regardless of their technical expertise—can bring their produce to a nationwide market.
 
 ---
+## 🚀 Live Demo
 
+Check out the live deployment of the project here:  
+🔗 **[[Live Demo]([url](https://krisho.onrender.com/))]**
+
+---
 ## 🛑 The Problems We Solve
 *   **Middlemen Exploitation:** Eliminates the chain of intermediaries that drain farmer profits and inflate consumer prices.
 *   **Fair Price Discovery:** Farmers set their own prices based on market trends and produce quality.
