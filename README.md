@@ -6,7 +6,7 @@
 ## 🚀 Live Demo
 
 Check out the live deployment of the project here:  
-🔗 [[Live Demo https://krisho.onrender.com/o]()]
+🔗 **[Live Demo]([url](https://krisho.onrender.com/))**
 
 ---
 ## 🛑 The Problems We Solve
